@@ -71,11 +71,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizzlogy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizzbrew&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true">
   </a>
   <br>
   <a href="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizzlogy&theme=dark&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizzbrew&theme=dark&hide_border=true&layout=compact">
   </a>
 </p>
 
