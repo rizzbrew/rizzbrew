@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://rizzy.eu.org">
-      <img src="https://private-user-images.githubusercontent.com/141845356/323396911-8588e189-2e11-4698-b8ee-ef4f0d509d71.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0NDcwMzYsIm5iZiI6MTc0MTQ0NjczNiwicGF0aCI6Ii8xNDE4NDUzNTYvMzIzMzk2OTExLTg1ODhlMTg5LTJlMTEtNDY5OC1iOGVlLWVmNGYwZDUwOWQ3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwOFQxNTEyMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjhlZDE3ZTkwMzRhZjk2NzY0ZDFmZmNkZjQzZTY2OTU5MjAxZGZjNjIwOTM3MDMyMDYzNTFkZTE2NTI4MDgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fjLCLfNiENg44F1WwDyMJajnp0LMcpRzI6H8FhB5GrM" width="700"/>
+      <img src="https://github.com/rizzlogy/rizzlogy/assets/141845356/8588e189-2e11-4698-b8ee-ef4f0d509d71" width="700"/>
     </a>
   </p>
   
@@ -21,15 +21,15 @@
 ### ℹ️ &nbsp;Profile Stalk
 <p align="center">
   <a href="https://rizzy.eu.org">
-    <img src="https://count.getloli.com/@rizzbrew?name=rizzbrew&theme=e621" width="300"/>
+    <img src="https://count.getloli.com/@rizzbrew?name=rizzbrew&theme=sketch-1" width="500"/>
   </a>
 </p>
 
 
 ### ℹ️ &nbsp;Playing Spotify
 <p align="center">
-  <a href="https://rizzy.eu.org">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="300"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" width="500"/>
   </a>
 </p>
 
