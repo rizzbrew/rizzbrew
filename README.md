@@ -1,24 +1,16 @@
+<h1 align="center"">Welcome to My Profile!👋</h1>
 <div align="center">
-  <h2>👋 Hello, I'm RizzyFuzz</h2><br>
-
-  <p>
-    <a href="https://rizzy.eu.org">
+  
+   **Backend Developer ✦ Website Developer**
+  
+</div>
+<p align='center'> 
+   <a href="https://rizzy.eu.org">
       <img src="https://github.com/rizzlogy/rizzlogy/assets/141845356/8588e189-2e11-4698-b8ee-ef4f0d509d71" width="700"/>
     </a>
-  </p>
-  
+</p>
 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6289505648501)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizzlogy_)
-  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/rizzlogy)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@rizzy.eu.org)
-  [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rizzlogy_)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rizzlogy)
-</div>
-
-
-### ℹ️ &nbsp;Profile Stalk
+### ✦ Profile Stalk ✦
 <p align="center">
   <a href="https://rizzy.eu.org">
     <img src="https://count.getloli.com/@rizzbrew?name=rizzbrew&theme=sketch-1" width="500"/>
@@ -26,63 +18,42 @@
 </p>
 
 
-### ℹ️ &nbsp;Playing Spotify
+### ✦ Playing Spotify ✦
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" width="500"/>
   </a>
 </p>
 
+### ✦ About Me ✦
+Hey, Furrs! I’m **Wahyu Erlangga**, also known as **RizzyFuzz**. I’m a passionate junior **Backend Developer** based in **Bitung, North Sulawesi, Indonesia**. Currently a student at **SMK N 2 Bitung**, I specialize in building websites from scratch, focusing on creating functional, elegant, and *user friendly* designs. Driven by challenges, I love transforming ideas into reality through code, whether it's front-end or back-end. Always excited to push my skills further in the digital world 🔥.
 
-### ℹ️ &nbsp;About Me
-> I'm Rizz, a 17-year-old Backend Developer and Music Producer located in Manado, North Sulawesi, Indonesia.  
-> As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
+### ✦ Personal Stuff's ✦
 
+* 👨‍🎓 **Experience Level**: 3+ years.
+* 💻 **Currently Working On**: JavaScript 🚀.
+* 🧩 **Interests**: Technology and Web Development.
 
-### ℹ️ &nbsp;Personal Stuff's
+### ✦ Tech Stack ✦
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 👨‍🎓 **Experience Level**: 3+ years.
-- 💻 **Currently Working On**: JavaScript 🚀.
-- 🧩 **Interests**: Technology and Web Development.
-
-
-### 🛠 &nbsp;Tech Stack
-
-**Languages**:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks**:  
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases**:  
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**:  
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ✦ Stats ✦
+![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizzbrew&hide=issues&show_icons=true&theme=dark&hide_border=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzbrew&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rizzbrew&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true">
-  </a>
-  <br>
-  <a href="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rizzbrew&theme=dark&hide_border=true&layout=compact">
-  </a>
-</p>
-
-
-### 🎟️ &nbsp;Support Me
-<p align="center">
-  <a href="https://paypal.me/RizzyFuzz" target="_blank">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya">
-  </a>
-</p>
+### ✦ Social ✦
+<a href="https://instagram.com/rizzlogy_/">
+   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://discord.com/users/RizzyFuzz#5423">
+   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:support@rizzy.eu.org">
+   <img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H">
+   <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://soundcloud.com/rizzlogy">
+   <img align="left" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</a>
