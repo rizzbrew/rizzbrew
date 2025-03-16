@@ -35,7 +35,7 @@ Hey, Furrs! I’m **Wahyu Erlangga**, also known as **RizzyFuzz**. I’m a passi
 * 🧩 **Interests**: Technology and Web Development.
 
 ### ✦ Tech Stack ✦
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ✦ Stats ✦
 ![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizzbrew&hide=issues&show_icons=true&theme=dark&hide_border=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzbrew&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
