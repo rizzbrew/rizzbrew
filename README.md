@@ -1,7 +1,7 @@
 <h1 align="center"">Welcome to My Profile!👋</h1>
 <div align="center">
   
-   **Backend Developer ✦ Website Developer**
+   **Backend Developer ✦ Web Developer**
   
 </div>
 <p align='center'> 
