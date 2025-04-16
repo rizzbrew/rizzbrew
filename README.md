@@ -6,7 +6,7 @@
 </div>
 <p align='center'> 
    <a href="https://rizzy.eu.org">
-      <img src="https://github.com/rizzlogy/rizzlogy/assets/141845356/8588e189-2e11-4698-b8ee-ef4f0d509d71" width="700"/>
+      <img src="https://www.rizzy.eu.org/_next/image?url=%2Fhero-image.png&w=828&q=75" width="400"/>
     </a>
 </p>
 
