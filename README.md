@@ -21,7 +21,7 @@
 ### ✦ Playing Spotify ✦
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" width="500"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x33vxn7tp6y5vjjefzlksrwl4m&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false" width="200"/>
   </a>
 </p>
 
