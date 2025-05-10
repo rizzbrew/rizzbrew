@@ -35,7 +35,8 @@ Hey, Furrs! I’m **Wahyu Erlangga**, also known as **RizzyFuzz**. I’m a passi
 * 🧩 **Interests**: Technology and Web Development.
 
 ### ✦ Tech Stack ✦
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+
 
 ### ✦ Stats ✦
 <picture decoding="async" loading="lazy">
@@ -46,18 +47,4 @@ Hey, Furrs! I’m **Wahyu Erlangga**, also known as **RizzyFuzz**. I’m a passi
 
 
 ### ✦ Social ✦
-<a href="https://instagram.com/rizzlogy_/">
-   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://discord.com/users/RizzyFuzz#5423">
-   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:support@rizzy.eu.org">
-   <img align="left" alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H">
-   <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://soundcloud.com/rizzlogy">
-   <img align="left" alt="Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/rizzlogy_)&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/RizzyFuzz#5423)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:support@rizzy.eu.org)&nbsp;&nbsp;[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H)&nbsp;&nbsp;[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge\&logo=soundcloud\&logoColor=white)](https://soundcloud.com/rizzlogy)&nbsp;&nbsp;
