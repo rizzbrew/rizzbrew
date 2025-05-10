@@ -1,7 +1,7 @@
 <h1 align="center">RizzyFuzz</h1>
 <div align="center">
   
-   **Web Developer**
+   **Backend Developer ✦ Web Developer**
   
 </div>
 <p align='center'> 
