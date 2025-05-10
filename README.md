@@ -1,4 +1,4 @@
-<h1 align="center"">Welcome to My Profile!👋</h1>
+<h1 align="center">RizzyFuzz</h1>
 <div align="center">
   
    **Backend Developer ✦ Web Developer**
