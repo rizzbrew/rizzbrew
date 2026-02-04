@@ -20,12 +20,6 @@
 ### ✦ About Me ✦
 Hey, Furrs! **RizzyFuzz**. I’m a passionate junior **Backend Developer** based in **Bitung, North Sulawesi, Indonesia**. I specialize in building websites from scratch, focusing on creating functional, elegant, and *user friendly* designs. Driven by challenges, I love transforming ideas into reality through code, whether it's front-end or back-end. Always excited to push my skills further in the digital world 🔥.
 
-### ✦ Stats ✦
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rizzbrew&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)&include_all_commits=true&pixelate_avatar=false" width="490">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rizzbrew&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)&include_all_commits=true" width="490">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=rizzbrew&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)&include_all_commits=true&pixelate_avatar=false" width="490">
-</picture>
 
 ### ✦ Tech Stack ✦
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
