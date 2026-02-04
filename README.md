@@ -18,7 +18,7 @@
 </p>
 
 ### ✦ About Me ✦
-Hey, Furrs! I’m **Wahyu Erlangga**, also known as **RizzyFuzz**. I’m a passionate junior **Backend Developer** based in **Bitung, North Sulawesi, Indonesia**. Currently a student at **SMK N 2 Bitung**, I specialize in building websites from scratch, focusing on creating functional, elegant, and *user friendly* designs. Driven by challenges, I love transforming ideas into reality through code, whether it's front-end or back-end. Always excited to push my skills further in the digital world 🔥.
+Hey, Furrs! **RizzyFuzz**. I’m a passionate junior **Backend Developer** based in **Bitung, North Sulawesi, Indonesia**. I specialize in building websites from scratch, focusing on creating functional, elegant, and *user friendly* designs. Driven by challenges, I love transforming ideas into reality through code, whether it's front-end or back-end. Always excited to push my skills further in the digital world 🔥.
 
 ### ✦ Stats ✦
 <picture decoding="async" loading="lazy">
