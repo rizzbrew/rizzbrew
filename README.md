@@ -6,7 +6,7 @@
 </div>
 <p align='center'> 
    <a href="https://rizzy.eu.org">
-      <img src="https://www.rizzy.eu.org/_next/image?url=%2Fhero-image.png&w=828&q=75" width="400"/>
+      <img src="https://www.rizzy.eu.org/_next/image?url=%2Fhero-image.png&w=828&q=75" width="350"/>
     </a>
 </p>
 
@@ -22,7 +22,7 @@ Hey, Furrs! **RizzyFuzz**. I’m a passionate junior **Backend Developer** based
 
 
 ### ✦ Tech Stack ✦
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### ✦ Social ✦
 [![Instagram](https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/rizzlogy_)&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/RizzyFuzz#5423)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:support@rizzy.eu.org)&nbsp;&nbsp;[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/artist/6AU7c8apKsdxxLBITqXu8H)&nbsp;&nbsp;[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge\&logo=soundcloud\&logoColor=white)](https://soundcloud.com/rizzlogy)&nbsp;&nbsp;
