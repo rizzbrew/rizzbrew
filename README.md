@@ -1,6 +1,6 @@
 <p align='center'> 
    <a href="https://rizzy.eu.org">
-      <img width="1920" height="1080" alt="Cover Image" src="https://private-user-images.githubusercontent.com/191101374/555231401-62200280-2054-4491-b257-a51fe8430209.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIwOTE5ODIsIm5iZiI6MTc3MjA5MTY4MiwicGF0aCI6Ii8xOTExMDEzNzQvNTU1MjMxNDAxLTYyMjAwMjgwLTIwNTQtNDQ5MS1iMjU3LWE1MWZlODQzMDIwOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyNlQwNzQxMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OTljNWViMzgwOTMzM2ZkNGZiZjI2Y2NiNGJhOTY5ZTM5MjI5ZjhhMWMyOWNlMDBjYTVmMDI3ZjFjZWExMzUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ctfRCImxVTTQ7HZChDxeW-V3zI-u4Bv8IVDykyu9tOE" />
+      <img width="1920" height="1080" alt="Cover Image" src="https://raw.githubusercontent.com/rizzbrew/rizzbrew/refs/heads/main/cover.png" />
     </a>
 </p>
 
